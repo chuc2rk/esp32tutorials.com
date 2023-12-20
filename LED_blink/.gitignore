@@ -1,3 +1,4 @@
 # top directories to ignore
 build
 _vscode
+.devcontainer
